@@ -1,0 +1,7 @@
+{
+  "name": "Robo AI - DailyStride",
+  "description": "An intelligent step tracker and calorie calculator with Gemini-powered insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
